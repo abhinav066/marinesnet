@@ -28,8 +28,7 @@
 ## 📖 About
 
 **MarineNet** is a deliberately vulnerable web application themed around the *One Piece* anime universe. Students play the role of attackers attempting to compromise the Marine Headquarters internal intelligence portal — complete with pirate databases, classified files, bounty records, finance systems, and personnel management.
-
-It is inspired by tools like [DVWA](https://dvwa.co.uk/), [WebGoat](https://owasp.org/www-project-webgoat/), and [HackTheBox](https://www.hackthebox.com/) — built specifically for hands-on web application penetration testing training.
+Built specifically for hands-on web application penetration testing training.
 
 
 
