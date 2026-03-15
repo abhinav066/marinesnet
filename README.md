@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/⚓-MARINENET-0a1628?style=for-the-badge&logoColor=c9a84c" alt="MarineNet"/>
 
-# MarineNet — Vulnerable Web Application
+# MarinesNet — Vulnerable Web Application
 
 ### A One Piece themed intentionally vulnerable web machine for cybersecurity training
 
