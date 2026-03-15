@@ -96,7 +96,7 @@ docker rmi anv1000/marinesnet
 
 ## 🎯 Vulnerabilities Covered
 
-MarineNet contains **15+ intentional vulnerabilities** spanning the OWASP Top 10 and beyond. Students must find and exploit them independently.
+MarineNet contains **15+ intentional vulnerabilities** spanning the OWASP Top 10 and beyond. Find and exploit them independently.
 
 | # | Category | OWASP Reference |
 |---|----------|----------------|
