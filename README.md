@@ -217,6 +217,8 @@ Permission is granted only to students and individual learners to use this Appli
 
 Copying, modifying, redistributing, sublicensing, commercial use, corporate training use, institutional use, and deployment in paid educational platforms are strictly prohibited without prior written permission from the author.
 
+www.linkedin.com/in/abhinavnathv
+
 This application must only be used in isolated lab environments and must not be deployed on public production systems.
 
 ---
